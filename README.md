@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 **negrita** 
-|titulo|col1|
-|---|---|
+|0-Starting|1-Array|
+|---|---|---|---|---|
 |fila1||
 
 <!--
