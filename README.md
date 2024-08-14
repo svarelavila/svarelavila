@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-| [0 - Starting ] (https://github.com/svilavarela/Python-for-datascience_Starting)| 1 - Array | 2 - DataTable | 3 - OOP | 4 - Dod |
+| [0 - Starting ](https://github.com/svilavarela/Python-for-datascience_Starting)| 1 - Array | 2 - DataTable | 3 - OOP | 4 - Dod |
 |---|---|---|---|---|
+
+
+| Python for Data Science | [0 - Starting](https://github.com/inakilastra/Python_for_Data_Science_0_Starting) :grey_question: | <sup>[1 - Array](https://github.com/inakilastra/Python_for_Data_Science_1_Array)</sup> :construction: | 2 - DataTable | 3 - OOP | 4 - Dod |
+|---|---|---|---|---|---|
 
 <!--
 **svilavarela/svilavarela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
