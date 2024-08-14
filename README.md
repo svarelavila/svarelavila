@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-**negrita** 
-|0-Starting|1-Array|
+| 0 - Starting | 1 - Array | 2 - DataTable | 3 - OOP | 4 - Dod |
 |---|---|---|---|---|
-|fila1||
 
 <!--
 **svilavarela/svilavarela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
