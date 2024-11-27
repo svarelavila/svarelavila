@@ -1,6 +1,5 @@
 <div align="center">
-  <h1 align="center">Hola, soy Sonia.
-  <img src="https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/nautilus.png" alt="Nautilus" width="25" height="25"></h1>
+  <h1 align="center">Hola, soy Sonia.</h1>
 </div>
 
 ![Banner (claro)](https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/42ZIP_urduliz.png)
@@ -12,23 +11,11 @@
 
 ### **Mi recorrido ZIP en 42 Urduliz**
 
-<sub>:heavy_check_mark: Evaluado &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :construction: En proceso &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :grey_question: Sin Evaluar</sub>
-
 <br />
 
 | [Libft]() | [Get Next Line]() | [Born2beroot]() |
 |---|---|---|
 
-
-
-
-
-
-
-
-
-
-## Hi there 👋
 
 | [0 - Starting ](https://github.com/svilavarela/Python-for-datascience_Starting)| [1 - Array](https://github.com/svilavarela/Python-for-datascience_Array)| 2 - DataTable | 3 - OOP | 4 - Dod |
 |---|---|---|---|---|
