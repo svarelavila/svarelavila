@@ -7,7 +7,7 @@
 
 
 [![42 Urduliz](https://img.shields.io/badge/Urduliz-black?style=flat&logo=42&logoColor=white)](https://profile.intra.42.fr/users/ilastra-)
-##![Visitas](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Finakilastra%2Finakilastra&label=Visitas&countColor=%23d9e3f0&style=flat&labelStyle=lower)
+
 
 ### **Mi recorrido ZIP en 42 Urduliz**
 
