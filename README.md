@@ -2,7 +2,7 @@
   <h1 align="center">Hola, soy Sonia.</h1>
 </div>
 
-![Banner (claro)](https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/42ZIP_urduliz.png)
+![Banner (claro)](./imagenes/42ZIP_urduliz.png)
 
 
 
