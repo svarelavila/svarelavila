@@ -11,13 +11,13 @@
 
 ### **Mi recorrido ZIP en 42 Urduliz**
 
-<br />
+
 
 | [Libft](https://github.com/svarelavila/LIBFT) | [Get Next Line](https://github.com/svarelavila/get_next_line) | Born2beroot | Exam ZIP
 |---|---|---|---|
 
 ### **Piscina Python for datascience**
-| [0 - Starting ](https://github.com/svilavarela/Python-for-datascience_Starting)| [1 - Array](https://github.com/svilavarela/Python-for-datascience_Array)| [2 - DataTable](https://github.com/svarelavila/Datascience-DataTable) | [3 - OOP](https://github.com/svarelavila/Datascience-OOP) | 4 - Dod |
+| [0 - Starting ](https://github.com/svilavarela/Python-for-datascience_Starting)| [1 - Array](https://github.com/svilavarela/Python-for-datascience_Array)| [2 - DataTable](https://github.com/svarelavila/Datascience-DataTable) | [3 - OOP](https://github.com/svarelavila/Datascience-OOP) | [4 - Dod](https://github.com/svarelavila/Datascience-Dod) |
 |---|---|---|---|---|
 
 
