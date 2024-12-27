@@ -45,7 +45,8 @@
 | [4 - Dod](https://github.com/svarelavila/Datascience-Dod) | Análisis de datos avanzados. |
 
 
-### Conecta conmigo 🌐  
+#### **Conecta conmigo** 🌐
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?style=flat&logo=linkedin)](www.linkedin.com/in/soniavarelavila)
 
 
