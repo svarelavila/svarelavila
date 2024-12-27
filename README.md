@@ -17,7 +17,7 @@
 |---|---|---|---|
 
 ### **Piscina Python for datascience**
-| [0 - Starting ](https://github.com/svilavarela/Python-for-datascience_Starting)| [1 - Array](https://github.com/svilavarela/Python-for-datascience_Array)| 2 - DataTable | 3 - OOP | 4 - Dod |
+| [0 - Starting ](https://github.com/svilavarela/Python-for-datascience_Starting)| [1 - Array](https://github.com/svilavarela/Python-for-datascience_Array)| [2 - DataTable] (https://github.com/svarelavila/Datascience-DataTable) | 3 - OOP | 4 - Dod |
 |---|---|---|---|---|
 
 
