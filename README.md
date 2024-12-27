@@ -1,12 +1,12 @@
 <div align="center">
-  <h1 align="center">Hola, soy Sonia.</h1>
+  <h1 align="center">Hola, mi nombre es Sonia.</h1>
 </div>
 
 ![Banner (claro)](./imagenes/42ZIP_urduliz.png)
 
 
 
-[![42 Urduliz](https://img.shields.io/badge/Urduliz-black?style=flat&logo=42&logoColor=white)](https://profile.intra.42.fr/users/ilastra-)
+
 
 
 ### **Mi recorrido ZIP en 42 Urduliz**
