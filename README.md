@@ -6,10 +6,10 @@
 
 ¡Bienvenida/o a mi espacio en GitHub! Soy estudiante en [42 Urduliz](https://www.42urduliz.com/), enfocada en desarrollar mis habilidades en programación y tecnología. Aquí comparto mis proyectos y el progreso que he logrado a lo largo de mi formación.  
 
-- 🎯 **Objetivo**: Desarrollar soluciones eficientes y aprender las mejores prácticas en programación.  
-- 🌱 **Aprendiendo actualmente**: Profundizando en Python para Data Science y avanzando en proyectos del cursus de 42.  
-- 🔧 **Habilidades principales**: Programación en Python, algoritmos, estructuras de datos, y administración de sistemas.  
-- 🚀 **Intereses**: Inteligencia Artificial, análisis de datos y desarrollo de software.  
+- 🎯 **Objetivo**: Desarrollar soluciones eficientes y aprender las mejores prácticas en programación.
+- 🌱 **Aprendiendo actualmente**: Profundizando en Python para Data Science y avanzando en proyectos del cursus de 42.
+- 🔧 **Habilidades principales**: Programación en Python, algoritmos y estructuras de datos.
+- 🚀 **Intereses**: Inteligencia Artificial, análisis de datos y desarrollo de software.
 
 
 ### 🚀 **Mi recorrido ZIP en 42 Urduliz**
