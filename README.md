@@ -4,14 +4,9 @@
 
 ![Banner (claro)](./imagenes/42ZIP_urduliz.png)
 
-
-
-
-
+- 👨‍💻 Soy estudiante en [42 Urduliz](https://www.42urduliz.com/)
 
 ### **Mi recorrido ZIP en 42 Urduliz**
-
-
 
 | [Libft](https://github.com/svarelavila/LIBFT) | [Get Next Line](https://github.com/svarelavila/get_next_line) | Born2beroot | Exam ZIP
 |---|---|---|---|
