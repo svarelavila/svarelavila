@@ -45,6 +45,10 @@
 | [4 - Dod](https://github.com/svarelavila/Datascience-Dod) | Análisis de datos avanzados. |
 
 
+### Conecta conmigo 🌐  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?style=flat&logo=linkedin)](www.linkedin.com/in/soniavarelavila)
+
+
 
 <!--
 **svilavarela/svilavarela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
