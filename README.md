@@ -16,20 +16,18 @@
 
 
 ### 💻 **Proyectos de C**
-| [Libft](https://github.com/svarelavila/LIBFT) | [Get Next Line](https://github.com/svarelavila/get_next_line) | Born2beroot | Exam ZIP
-|---|---|---|---|
+| [Libft](https://github.com/svarelavila/LIBFT) | [Get Next Line](https://github.com/svarelavila/get_next_line) | Born2beroot |
+|---|---|---|
 
 - **Libft**: Primera librería personalizada en C.
 - **Get Next Line**: Implementación de lectura eficiente de archivos.
-- **Born2beroot**: Proyecto de configuración de un sistema Linux seguro.
+- **Born2beroot**: Proyecto de configuración de una maquina virtual.
+
 
 ### 👩‍💻 **Examen ZIP**
-|---|---|
-| Nivel - 1 | |
-| [1 - Array](https://github.com/svilavarela/Python-for-datascience_Array) | Trabajo con estructuras de datos en Python. |
-| [2 - DataTable](https://github.com/svarelavila/Datascience-DataTable) | Manipulación avanzada de tablas y datos. |
-| [3 - OOP](https://github.com/svarelavila/Datascience-OOP) | Programación orientada a objetos en Python. |
-| [4 - Dod](https://github.com/svarelavila/Datascience-Dod) | Análisis de datos avanzados. |
+
+| Nivel - 1 | Nivel - 2 | Nivel - 3 | Nivel - 4 | Nivel - 5 | Nivel - 6 | Nivel - 7 | Nivel - 8 |
+|---|---|---|---|---|---|---|---|
 
 
 <!--
@@ -46,7 +44,7 @@
 ### 🐍 **Piscina Python for Data Science**
 
 | **Proyecto** | **Descripción** |
-|--------------|------------------|
+|---|---|
 | [0 - Starting](https://github.com/svilavarela/Python-for-datascience_Starting) | Primeros pasos en Python para Data Science. |
 | [1 - Array](https://github.com/svilavarela/Python-for-datascience_Array) | Trabajo con estructuras de datos en Python. |
 | [2 - DataTable](https://github.com/svarelavila/Datascience-DataTable) | Manipulación avanzada de tablas y datos. |
