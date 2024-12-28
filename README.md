@@ -12,16 +12,25 @@
 - 🚀 **Intereses**: Inteligencia Artificial, análisis de datos y desarrollo de software.
 
 
-## 🚀 **Mi recorrido ZIP en 42 Urduliz**
+# 🚀 **Mi recorrido ZIP en 42 Urduliz**
 
 
-#### Proyectos de C
+### 💻 **Proyectos de C**
 | [Libft](https://github.com/svarelavila/LIBFT) | [Get Next Line](https://github.com/svarelavila/get_next_line) | Born2beroot | Exam ZIP
 |---|---|---|---|
 
 - **Libft**: Primera librería personalizada en C.
 - **Get Next Line**: Implementación de lectura eficiente de archivos.
 - **Born2beroot**: Proyecto de configuración de un sistema Linux seguro.
+
+### 👩‍💻 **Examen ZIP**
+|---|---|
+| Nivel - 1 | |
+| [1 - Array](https://github.com/svilavarela/Python-for-datascience_Array) | Trabajo con estructuras de datos en Python. |
+| [2 - DataTable](https://github.com/svarelavila/Datascience-DataTable) | Manipulación avanzada de tablas y datos. |
+| [3 - OOP](https://github.com/svarelavila/Datascience-OOP) | Programación orientada a objetos en Python. |
+| [4 - Dod](https://github.com/svarelavila/Datascience-Dod) | Análisis de datos avanzados. |
+
 
 <!--
 #### 🐍 Proyectos de la Piscina Python for Data Science
