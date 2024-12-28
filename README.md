@@ -12,7 +12,7 @@
 - 🚀 **Intereses**: Inteligencia Artificial, análisis de datos y desarrollo de software.
 
 
-### 🚀 **Mi recorrido ZIP en 42 Urduliz**
+## 🚀 **Mi recorrido ZIP en 42 Urduliz**
 
 
 #### Proyectos de C
