@@ -28,7 +28,7 @@
 |---|---|
 | [Libft](https://github.com/svarelavila/LIBFT) | Primera librería personalizada en C. |
 | [Get Next Line](https://github.com/svarelavila/get_next_line) | Implementación de lectura eficiente de archivos. |
-| Examen ZIP | 
+| [Mi Examen ZIP] | 
 
 <!--
 ### 👩‍💻 **Examen ZIP**
