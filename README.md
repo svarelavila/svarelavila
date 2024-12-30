@@ -16,19 +16,26 @@
 
 
 ### 💻 **Proyectos de C**
+<!--
 | [Libft](https://github.com/svarelavila/LIBFT) | [Get Next Line](https://github.com/svarelavila/get_next_line) | Born2beroot |
 |---|---|---|
 
 - **Libft**: Primera librería personalizada en C.
 - **Get Next Line**: Implementación de lectura eficiente de archivos.
 - **Born2beroot**: Proyecto de configuración de una maquina virtual.
+-->
+| **Proyecto** | **Descripción** |
+|---|---|
+| [Libft](https://github.com/svarelavila/LIBFT) | Primera librería personalizada en C. |
+| [Get Next Line](https://github.com/svarelavila/get_next_line) | Implementación de lectura eficiente de archivos. |
+| Examen ZIP | 
 
-
+<!--
 ### 👩‍💻 **Examen ZIP**
 
 | Nivel - 1 | Nivel - 2 | Nivel - 3 | Nivel - 4 | Nivel - 5 | Nivel - 6 | Nivel - 7 | Nivel - 8 |
 |---|---|---|---|---|---|---|---|
-
+-->
 
 <!--
 #### 🐍 Proyectos de la Piscina Python for Data Science
