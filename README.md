@@ -16,6 +16,11 @@
 
 
 ### 💻 **Proyectos de C**
+
+Proyectos diseñados para fortalecer las habilidades en programación en C. Cada proyecto aborda conceptos clave, desde la creación de librerías personalizadas hasta la implementación de técnicas avanzadas de manipulación de archivos.
+
+El enfoque de estos ejercicios es práctico, permitiendo consolidar fundamentos del lenguaje C y desarrollar soluciones eficientes para problemas reales. Este conjunto de proyectos es ideal para perfeccionar tus habilidades técnicas y prepararte para desafíos avanzados, como el examen ZIP.
+
 <!--
 | [Libft](https://github.com/svarelavila/LIBFT) | [Get Next Line](https://github.com/svarelavila/get_next_line) | Born2beroot |
 |---|---|---|
