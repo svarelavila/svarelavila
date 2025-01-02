@@ -50,6 +50,17 @@
 -->
 ### 🐍 **Piscina Python for Data Science**
 
+Una **piscina** es un programa educativo intensivo diseñado para abordar conceptos clave de una tecnología, lenguaje o paradigma mediante proyectos modulares. Cada módulo se centra en una noción específica, desde los fundamentos hasta temas avanzados, con un enfoque práctico que asegura la comprensión y aplicación de los conceptos.
+
+La **piscine** está estructurada para desarrollar habilidades técnicas esenciales como:
+
+- Resolución de problemas.
+- Dominio de estructuras y paradigmas de programación.
+- Manejo de herramientas y bibliotecas especializadas.
+- Mejora de la calidad del código mediante buenas prácticas y normativas.
+
+Este repositorio es parte de una serie de módulos interconectados que juntos forman un programa integral para adquirir y reforzar estas habilidades técnicas.
+
 | **Proyecto** | **Descripción** |
 |---|---|
 | [0 - Starting](https://github.com/svarelavila/Datascience-Starting) | Primeros pasos en Python para Data Science. |
