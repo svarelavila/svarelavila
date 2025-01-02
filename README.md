@@ -17,9 +17,9 @@
 
 ### 💻 **Proyectos de C**
 
-Proyectos diseñados para fortalecer las habilidades en programación en C. Cada proyecto aborda conceptos clave, desde la creación de librerías personalizadas hasta la implementación de técnicas avanzadas de manipulación de archivos.
+Este conjunto de repositorios proporciona una formación completa en programación en C, abordando desde la creación de librerías personalizadas hasta la implementación de herramientas avanzadas y la preparación para evaluaciones técnicas.
 
-El enfoque de estos ejercicios es práctico, permitiendo consolidar fundamentos del lenguaje C y desarrollar soluciones eficientes para problemas reales. Este conjunto de proyectos es ideal para perfeccionar tus habilidades técnicas y prepararte para desafíos avanzados, como el examen ZIP.
+Cada repositorio complementa a los demás, permitiendo un aprendizaje progresivo que combina fundamentos y aplicaciones prácticas. Explora estos proyectos para fortalecer tus habilidades en C y enfrentar con confianza desafíos técnicos más avanzados.
 
 <!--
 | [Libft](https://github.com/svarelavila/LIBFT) | [Get Next Line](https://github.com/svarelavila/get_next_line) | Born2beroot |
@@ -55,16 +55,16 @@ El enfoque de estos ejercicios es práctico, permitiendo consolidar fundamentos 
 -->
 ### 🐍 **Piscina Python for Data Science**
 
-Una **piscina** es un programa educativo intensivo diseñado para abordar conceptos clave de una tecnología, lenguaje o paradigma mediante proyectos modulares. Cada módulo se centra en una noción específica, desde los fundamentos hasta temas avanzados, con un enfoque práctico que asegura la comprensión y aplicación de los conceptos.
+Esta **piscina** aborda conceptos clave de tecnología, lenguaje o paradigma mediante proyectos modulares. Cada módulo se centra en una noción específica, desde los fundamentos hasta temas avanzados, con un enfoque práctico que asegura la comprensión y aplicación de los conceptos.
 
-La **piscine** está estructurada para desarrollar habilidades técnicas esenciales como:
+La **piscina** está estructurada para desarrollar habilidades técnicas esenciales como:
 
 - Resolución de problemas.
 - Dominio de estructuras y paradigmas de programación.
 - Manejo de herramientas y bibliotecas especializadas.
 - Mejora de la calidad del código mediante buenas prácticas y normativas.
 
-Este repositorio es parte de una serie de módulos interconectados que juntos forman un programa integral para adquirir y reforzar estas habilidades técnicas.
+Es parte de una serie de módulos interconectados que juntos forman un programa integral para adquirir y reforzar estas habilidades técnicas.
 
 | **Proyecto** | **Descripción** |
 |---|---|
