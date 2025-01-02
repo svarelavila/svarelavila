@@ -52,7 +52,7 @@
 
 | **Proyecto** | **Descripción** |
 |---|---|
-| [0 - Starting](https://github.com/svilavarela/Python-for-datascience_Starting) | Primeros pasos en Python para Data Science. |
+| [0 - Starting](https://github.com/svarelavila/Datascience-Starting) | Primeros pasos en Python para Data Science. |
 | [1 - Array](https://github.com/svilavarela/Python-for-datascience_Array) | Trabajo con estructuras de datos en Python. |
 | [2 - DataTable](https://github.com/svarelavila/Datascience-DataTable) | Manipulación avanzada de tablas y datos. |
 | [3 - OOP](https://github.com/svarelavila/Datascience-OOP) | Programación orientada a objetos en Python. |
