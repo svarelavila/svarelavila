@@ -1,8 +1,7 @@
 <div align="center">
   <h1> 👋 Hola, mi nombre es Sonia</h1>
+  <img src="./imagenes/42ZIP_urduliz.png" alt="Banner de 42 zip" />
 </div>
-
-![Banner de 42 zip](./imagenes/42ZIP_urduliz.png)
 
 ¡Bienvenida/o a mi espacio en GitHub! Soy estudiante en [42 Urduliz](https://www.42urduliz.com/), enfocada en desarrollar mis habilidades en programación y tecnología. Aquí comparto mis proyectos y el progreso que he logrado a lo largo de mi formación.  
 
@@ -15,10 +14,12 @@
 
 
 ### 💻 **Proyectos de C**
-
+<!--
 Este conjunto de repositorios proporciona una formación completa en programación en C, abordando desde la creación de librerías personalizadas hasta la implementación de herramientas avanzadas y la preparación para evaluaciones técnicas.
 
 Cada repositorio complementa a los demás, permitiendo un aprendizaje progresivo que combina fundamentos y aplicaciones prácticas. Explora estos proyectos para fortalecer tus habilidades en C y enfrentar con confianza desafíos técnicos más avanzados.
+-->
+Estos proyectos son una parte fundamental de mi formación en programación en C, abarcando desafíos desde la creación de librerías hasta la preparación para evaluaciones técnicas. ¡Descúbrelos a continuación! 🚀
 
 | **Proyecto** | **Descripción** |
 |---|---|
@@ -49,39 +50,30 @@ Es parte de una serie de módulos interconectados que juntos forman un programa 
 
 ### 🛠️ Tecnologías y Herramientas
 
-#### Lenguajes de Programación
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-</div>
+#### 🚀 Lenguajes de Programación
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-#### Bibliotecas y Frameworks
-<div>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</div>
+#### 📚 Bibliotecas y Frameworks
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-#### Control de Versiones
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</div>
+#### 🔧 Control de Versiones
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-#### Editores y Entornos
-<div>
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</div>
+#### 💻 Editores y Entornos
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+_"Gracias por visitar mi perfil. Si compartes intereses similares o tienes algún proyecto interesante, no dudes en contactarme. ¡Siempre estoy abierta a nuevas oportunidades y colaboraciones!"_
 
 #### 🌐 **Conecta conmigo**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?style=flat&logo=linkedin)](www.linkedin.com/in/soniavarelavila)
-
----
-_"Gracias por visitar mi perfil. Si compartes intereses similares o tienes algún proyecto interesante, no dudes en contactarme. ¡Siempre estoy abierta a nuevas oportunidades y colaboraciones!"_
 
 
 <!--
