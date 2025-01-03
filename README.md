@@ -3,11 +3,15 @@
   <img src="./imagenes/42ZIP_urduliz.png" alt="Banner de 42 zip" />
   <!-- Contador de visitas -->
   <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=svarelavila&color=blue&style=flat-square" alt="Visitas al perfil" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=svarelavila&color=blue&style=flat-square" alt="Visitas al perfil" />
+  <br />
+</p>
+
 </div>
 
-¡Bienvenida/o a mi espacio en GitHub! Soy estudiante en [42 Urduliz](https://www.42urduliz.com/), enfocada en desarrollar mis habilidades en programación y tecnología. Aquí comparto mis proyectos y el progreso que he logrado a lo largo de mi formación.  
+👩‍💻 ¡Bienvenida/o a mi espacio en GitHub!
+
+Soy estudiante en [42 Urduliz](https://www.42urduliz.com/), enfocada en desarrollar mis habilidades en programación y tecnología. Aquí comparto mis proyectos y el progreso que he logrado a lo largo de mi formación.  
 
 - 🎯 **Objetivo**: Desarrollar soluciones eficientes y aprender las mejores prácticas en programación.
 - 🌱 **Aprendiendo actualmente**: Profundizando en Python para Data Science y avanzando en proyectos del cursus de 42.
@@ -74,35 +78,11 @@ Es parte de una serie de módulos interconectados que juntos forman un programa 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="MacOS" />
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="vertical-align:down;"/>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="vertical-align:down;"/>
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" style="vertical-align:down;"/>
-  </p>
-
-<!--
-#### 🚀 Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-#### 📚 Bibliotecas y Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-#### 🔧 Control de Versiones
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-#### 💻 Editores y Entornos
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
--->
 ---
 _"Gracias por visitar mi perfil. Si compartes intereses similares o tienes algún proyecto interesante, no dudes en contactarme. ¡Siempre estoy abierta a nuevas oportunidades y colaboraciones!"_
 
