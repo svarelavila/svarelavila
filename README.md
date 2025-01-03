@@ -42,11 +42,11 @@ Es parte de una serie de módulos interconectados que juntos forman un programa 
 
 | **Proyecto** | **Descripción** |
 |---|---|
-| [0 - Starting](https://github.com/svarelavila/Datascience-Starting) | Primeros pasos en Python para Data Science. |
-| [1 - Array](https://github.com/svarelavila/Datascience-Array) | Trabajo con estructuras de datos en Python. |
-| [2 - DataTable](https://github.com/svarelavila/Datascience-DataTable) | Manipulación avanzada de tablas y datos. |
-| [3 - OOP](https://github.com/svarelavila/Datascience-OOP) | Programación orientada a objetos en Python. |
-| [4 - Dod](https://github.com/svarelavila/Datascience-Dod) | Análisis de datos avanzados. |
+| [0 - Starting](https://github.com/svarelavila/Datascience-Starting) | Primeros pasos en Python para Data Science, usando herramientas básicas como `pandas`. |
+| [1 - Array](https://github.com/svarelavila/Datascience-Array) | Trabajo con estructuras de datos en Python utilizando `NumPy`. |
+| [2 - DataTable](https://github.com/svarelavila/Datascience-DataTable) | Manipulación avanzada de datos tabulares con `pandas`. |
+| [3 - OOP](https://github.com/svarelavila/Datascience-OOP) | Programación orientada a objetos en Python para estructurar soluciones escalables. |
+| [4 - Dod](https://github.com/svarelavila/Datascience-Dod) | Diseño orientado a datos para análisis avanzado. |
 
 
 #### **Conecta conmigo** 🌐
