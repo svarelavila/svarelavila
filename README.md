@@ -7,7 +7,6 @@
 
 [![Visitas al perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsvarelavila&title=Visitas&edge_style=social)](https://hits.seeyoufarm.com)
 
-
 👩‍💻 ¡Bienvenida/o a mi espacio en GitHub!
 
 Soy estudiante en [42 Urduliz](https://www.42urduliz.com/), enfocada en desarrollar mis habilidades en programación y tecnología. Aquí comparto mis proyectos y el progreso que he logrado a lo largo de mi formación.  
