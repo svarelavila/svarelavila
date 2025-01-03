@@ -4,7 +4,6 @@
   <!-- Contador de visitas -->
   <p align="left">
   <img src="https://komarev.com/ghpvc/?username=svarelavila&color=blue&style=flat-square" alt="Visitas al perfil" />
-  <br />
 </p>
 
 </div>
@@ -22,11 +21,7 @@ Soy estudiante en [42 Urduliz](https://www.42urduliz.com/), enfocada en desarrol
 
 
 ### 💻 **Proyectos de C**
-<!--
-Este conjunto de repositorios proporciona una formación completa en programación en C, abordando desde la creación de librerías personalizadas hasta la implementación de herramientas avanzadas y la preparación para evaluaciones técnicas.
 
-Cada repositorio complementa a los demás, permitiendo un aprendizaje progresivo que combina fundamentos y aplicaciones prácticas. Explora estos proyectos para fortalecer tus habilidades en C y enfrentar con confianza desafíos técnicos más avanzados.
--->
 Estos proyectos son una parte fundamental de mi formación en programación en C, abarcando desafíos desde la creación de librerías hasta la preparación para evaluaciones técnicas. ¡Descúbrelos a continuación! 🚀
 
 | **Proyecto** | **Descripción** |
