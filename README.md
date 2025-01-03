@@ -1,12 +1,12 @@
 <div align="center">
   <h1> 👋 Hola, mi nombre es Sonia</h1>
   <img src="./imagenes/42ZIP_urduliz.png" alt="Banner de 42 zip" />
-  <!-- Contador de visitas -->
-  <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=svarelavila&color=blue&style=flat-square" alt="Visitas al perfil" />
-</p>
-
 </div>
+
+<!-- Contador de visitas -->
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=svarelavila&color=blue&style=flat-square)
+
 
 👩‍💻 ¡Bienvenida/o a mi espacio en GitHub!
 
