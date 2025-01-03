@@ -74,6 +74,12 @@ Es parte de una serie de módulos interconectados que juntos forman un programa 
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
+<p align="center">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="vertical-align:down;"/>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="vertical-align:down;"/>
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" style="vertical-align:down;"/>
+  </p>
+
 <!--
 #### 🚀 Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
