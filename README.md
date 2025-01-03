@@ -6,6 +6,10 @@
 <!-- Contador de visitas -->
 ![Visitas](https://api.visitorbadge.io/api/visitors?path=URL_CODIFICADA&label=VISITAS&countColor=COLOR_HEX&style=ESTILO&labelStyle=ESTILO_ETIQUETA)
 
+![Visitas](https://api.visitorbadge.io/api/visitors?path=URL_CODIFICADA&label=VISITAS&countColor=%23FFFFFF&countBackgroundColor=%23ADD8E6&style=ESTILO_ETIQUETA&labelStyle=capitalize)
+
+
+
 👩‍💻 ¡Bienvenida/o a mi espacio en GitHub!
 
 Soy estudiante en [42 Urduliz](https://www.42urduliz.com/), enfocada en desarrollar mis habilidades en programación y tecnología. Aquí comparto mis proyectos y el progreso que he logrado a lo largo de mi formación.  
