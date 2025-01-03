@@ -28,6 +28,13 @@ Estos proyectos son una parte fundamental de mi formación en programación en C
 | [Get Next Line](https://github.com/svarelavila/get_next_line) | Implementación de lectura eficiente de archivos. |
 | [Mi Examen ZIP](https://github.com/svarelavila/ExamZIP) | Ejercicios para la practica del examen. |
 
+<!--
+### Sistemas 
+
+| [Borntoberoot] | Maquina Virtual |
+|---|---|
+-->
+
 ### 🐍 **Piscina Python for Data Science**
 
 Esta **piscina** aborda conceptos clave de tecnología, lenguaje o paradigma mediante proyectos modulares. Cada módulo se centra en una noción específica, desde los fundamentos hasta temas avanzados, con un enfoque práctico que asegura la comprensión y aplicación de los conceptos.
