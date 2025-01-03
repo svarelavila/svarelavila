@@ -21,38 +21,12 @@ Este conjunto de repositorios proporciona una formación completa en programaci�
 
 Cada repositorio complementa a los demás, permitiendo un aprendizaje progresivo que combina fundamentos y aplicaciones prácticas. Explora estos proyectos para fortalecer tus habilidades en C y enfrentar con confianza desafíos técnicos más avanzados.
 
-<!--
-| [Libft](https://github.com/svarelavila/LIBFT) | [Get Next Line](https://github.com/svarelavila/get_next_line) | Born2beroot |
-|---|---|---|
-
-- **Libft**: Primera librería personalizada en C.
-- **Get Next Line**: Implementación de lectura eficiente de archivos.
-- **Born2beroot**: Proyecto de configuración de una maquina virtual.
--->
 | **Proyecto** | **Descripción** |
 |---|---|
 | [Libft](https://github.com/svarelavila/LIBFT) | Primera librería personalizada en C. |
 | [Get Next Line](https://github.com/svarelavila/get_next_line) | Implementación de lectura eficiente de archivos. |
 | [Mi Examen ZIP](https://github.com/svarelavila/ExamZIP) | Ejercicios para la practica del examen. |
 
-<!--
-### 👩‍💻 **Examen ZIP**
-
-| Nivel - 1 | Nivel - 2 | Nivel - 3 | Nivel - 4 | Nivel - 5 | Nivel - 6 | Nivel - 7 | Nivel - 8 |
-|---|---|---|---|---|---|---|---|
--->
-
-<!--
-#### 🐍 Proyectos de la Piscina Python for Data Science
-[0 - Starting ](https://github.com/svilavarela/Python-for-datascience_Starting)| [1 - Array](https://github.com/svilavarela/Python-for-datascience_Array)| [2 - DataTable](https://github.com/svarelavila/Datascience-DataTable) | [3 - OOP](https://github.com/svarelavila/Datascience-OOP) | [4 - Dod](https://github.com/svarelavila/Datascience-Dod) |
-|---|---|---|---|---|
-
-- **Starting**: Primeros pasos en Python para Data Science.
-- **Array**: Trabajo con estructuras de datos en Python.
-- **DataTable**: Manipulación avanzada de tablas y datos.
-- **OOP**: Programación orientada a objetos en Python.
-- **Dod**: Análisis de datos avanzados.
--->
 ### 🐍 **Piscina Python for Data Science**
 
 Esta **piscina** aborda conceptos clave de tecnología, lenguaje o paradigma mediante proyectos modulares. Cada módulo se centra en una noción específica, desde los fundamentos hasta temas avanzados, con un enfoque práctico que asegura la comprensión y aplicación de los conceptos.
