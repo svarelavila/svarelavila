@@ -48,8 +48,33 @@ Es parte de una serie de módulos interconectados que juntos forman un programa 
 | [3 - OOP](https://github.com/svarelavila/Datascience-OOP) | Programación orientada a objetos en Python para estructurar soluciones escalables. |
 | [4 - Dod](https://github.com/svarelavila/Datascience-Dod) | Diseño orientado a datos para análisis avanzado. |
 
-### 🛠️ Tecnologías y Herramientas
+<div align="center">
+  <h3>🛠️ Tecnologías y Herramientas</h3>
+</div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+<!--
 #### 🚀 Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -67,7 +92,7 @@ Es parte de una serie de módulos interconectados que juntos forman un programa 
 #### 💻 Editores y Entornos
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+-->
 ---
 _"Gracias por visitar mi perfil. Si compartes intereses similares o tienes algún proyecto interesante, no dudes en contactarme. ¡Siempre estoy abierta a nuevas oportunidades y colaboraciones!"_
 
