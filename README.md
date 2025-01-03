@@ -53,6 +53,8 @@ Es parte de una serie de módulos interconectados que juntos forman un programa 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?style=flat&logo=linkedin)](www.linkedin.com/in/soniavarelavila)
 
+---
+_"Gracias por visitar mi perfil. Si compartes intereses similares o tienes algún proyecto interesante, no dudes en contactarme. ¡Siempre estoy abierta a nuevas oportunidades y colaboraciones!"_
 
 
 <!--
