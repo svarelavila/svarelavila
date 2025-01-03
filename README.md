@@ -4,8 +4,7 @@
 </div>
 
 <!-- Contador de visitas -->
-
-[![Visitas al perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsvarelavila&title=Visitas&edge_style=social)](https://hits.seeyoufarm.com)
+![Visitas](https://api.visitorbadge.io/api/visitors?path=URL_CODIFICADA&label=VISITAS&countColor=%239FE2BF&style=flat&labelStyle=capitalize)
 
 👩‍💻 ¡Bienvenida/o a mi espacio en GitHub!
 
