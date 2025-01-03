@@ -7,6 +7,12 @@
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=svarelavila&color=blue&style=flat-square)
 
+![Visitas al perfil](https://img.shields.io/badge/Visitas-123-blue?style=flat-square)
+
+[![Visitas al perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsvarelavila&title=Visitas&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
+
 
 👩‍💻 ¡Bienvenida/o a mi espacio en GitHub!
 
