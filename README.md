@@ -58,7 +58,7 @@ Es parte de una serie de módulos interconectados que juntos forman un programa 
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-#### **Conecta conmigo** 🌐
+#### 🌐 **Conecta conmigo**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?style=flat&logo=linkedin)](www.linkedin.com/in/soniavarelavila)
 
