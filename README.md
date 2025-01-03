@@ -50,6 +50,8 @@ Es parte de una serie de módulos interconectados que juntos forman un programa 
 | [3 - OOP](https://github.com/svarelavila/Datascience-OOP) | Programación orientada a objetos en Python para estructurar soluciones escalables. |
 | [4 - Dod](https://github.com/svarelavila/Datascience-Dod) | Diseño orientado a datos para análisis avanzado. |
 
+---
+
 <div align="center">
   <h3>🛠️ Tecnologías y Herramientas</h3>
 </div>
