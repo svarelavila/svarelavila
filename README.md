@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"># 👋 Hola, mi nombre es Sonia</h1>
+  <h1> 👋 Hola, mi nombre es Sonia</h1>
 </div>
 
 ![Banner de 42 zip](./imagenes/42ZIP_urduliz.png)
