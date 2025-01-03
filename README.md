@@ -4,7 +4,7 @@
 </div>
 
 <!-- Contador de visitas -->
-![Visitas](https://api.visitorbadge.io/api/visitors?path=URL_CODIFICADA&label=VISITAS&countColor=%239FE2BF&style=flat&labelStyle=capitalize)
+![Visitas](https://api.visitorbadge.io/api/visitors?path=URL_CODIFICADA&label=VISITAS&countColor=COLOR_HEX&style=ESTILO&labelStyle=ESTILO_ETIQUETA)
 
 👩‍💻 ¡Bienvenida/o a mi espacio en GitHub!
 
