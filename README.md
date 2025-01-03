@@ -6,7 +6,7 @@
 <!-- Contador de visitas 
 ![Visitas](https://api.visitorbadge.io/api/visitors?path=URL_CODIFICADA&label=VISITAS&countColor=COLOR_HEX&style=ESTILO&labelStyle=ESTILO_ETIQUETA) -->
 
-![Visitas](https://api.visitorbadge.io/api/visitors?path=URL_CODIFICADA&label=VISITAS&countColor=%23FFFFFF&countBackgroundColor=#0076D6&style=ESTILO_ETIQUETA&labelStyle=capitalize)
+![Visitas](https://api.visitorbadge.io/api/visitors?path=URL_CODIFICADA&label=VISITAS&countColor=%23FFA500&countBackgroundColor=#0076D6&style=ESTILO_ETIQUETA&labelStyle=capitalize)
 
 
 
