@@ -1,6 +1,10 @@
 <div align="center">
   <h1> 👋 Hola, mi nombre es Sonia</h1>
   <img src="./imagenes/42ZIP_urduliz.png" alt="Banner de 42 zip" />
+  <!-- Contador de visitas -->
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=svarelavila&color=blue&style=flat-square" alt="Visitas al perfil" />
+  </p>
 </div>
 
 ¡Bienvenida/o a mi espacio en GitHub! Soy estudiante en [42 Urduliz](https://www.42urduliz.com/), enfocada en desarrollar mis habilidades en programación y tecnología. Aquí comparto mis proyectos y el progreso que he logrado a lo largo de mi formación.  
