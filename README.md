@@ -3,10 +3,10 @@
   <img src="./imagenes/42ZIP_urduliz.png" alt="Banner de 42 zip" />
 </div>
 
-<!-- Contador de visitas -->
-![Visitas](https://api.visitorbadge.io/api/visitors?path=URL_CODIFICADA&label=VISITAS&countColor=COLOR_HEX&style=ESTILO&labelStyle=ESTILO_ETIQUETA)
+<!-- Contador de visitas 
+![Visitas](https://api.visitorbadge.io/api/visitors?path=URL_CODIFICADA&label=VISITAS&countColor=COLOR_HEX&style=ESTILO&labelStyle=ESTILO_ETIQUETA) -->
 
-![Visitas](https://api.visitorbadge.io/api/visitors?path=URL_CODIFICADA&label=VISITAS&countColor=%23FFFFFF&countBackgroundColor=%23ADD8E6&style=ESTILO_ETIQUETA&labelStyle=capitalize)
+![Visitas](https://api.visitorbadge.io/api/visitors?path=URL_CODIFICADA&label=VISITAS&countColor=%23FFFFFF&countBackgroundColor=#0076D6&style=ESTILO_ETIQUETA&labelStyle=capitalize)
 
 
 
