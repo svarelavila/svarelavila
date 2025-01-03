@@ -11,7 +11,6 @@
 - 🔧 **Habilidades principales**: Programación en Python, algoritmos y estructuras de datos.
 - 🚀 **Intereses**: Inteligencia Artificial, análisis de datos y desarrollo de software.
 
-
 # 🚀 **Mi recorrido ZIP en 42 Urduliz**
 
 
@@ -48,6 +47,16 @@ Es parte de una serie de módulos interconectados que juntos forman un programa 
 | [3 - OOP](https://github.com/svarelavila/Datascience-OOP) | Programación orientada a objetos en Python para estructurar soluciones escalables. |
 | [4 - Dod](https://github.com/svarelavila/Datascience-Dod) | Diseño orientado a datos para análisis avanzado. |
 
+### 🛠️ Tecnologías y Herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### **Conecta conmigo** 🌐
 
