@@ -90,7 +90,8 @@ _"Gracias por visitar mi perfil. Si compartes intereses similares o tienes algú
 
 #### 🌐 **Conecta conmigo**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?style=flat&logo=linkedin)](www.linkedin.com/in/soniavarelavila)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/soniavarelavila)
+
 
 
 <!--
