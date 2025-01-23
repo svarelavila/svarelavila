@@ -57,6 +57,21 @@ Es parte de una serie de módulos interconectados que juntos forman un programa 
 | [4 - Dod](https://github.com/svarelavila/Datascience-Dod) | Diseño orientado a datos para análisis avanzado. |
 
 ---
+### 🐍 **Piscina Django** (en proceso)
+
+| **Proyecto** | **Descripción** |
+|---|---|
+| [0 - Initiation] ||
+| [0 - Starting] ||
+| [0 - Oob] ||
+| [1 - Lib] ||
+| [1 - Base Django]||
+| [2 - SQL] ||
+| [3 - Sessions] ||
+| [3 - Advanced] ||
+| [3 - Final] ||
+
+---
 
 <div align="center">
   <h3>🛠️ Tecnologías y Herramientas</h3>
