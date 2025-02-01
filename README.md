@@ -35,6 +35,8 @@ Estos proyectos son una parte fundamental de mi formación en programación en C
 |---|---|
 -->
 
+---
+
 ### 🐍 **Piscina Python for Data Science**
 
 Esta **piscina** aborda conceptos clave de tecnología, lenguaje o paradigma mediante proyectos modulares. Cada módulo se centra en una noción específica, desde los fundamentos hasta temas avanzados, con un enfoque práctico que asegura la comprensión y aplicación de los conceptos.
@@ -57,7 +59,7 @@ Es parte de una serie de módulos interconectados que juntos forman un programa 
 | [4 - Dod](https://github.com/svarelavila/Datascience-Dod) | Diseño orientado a datos para análisis avanzado. |
 
 ---
-### 🐍 **Piscina Django** (en proceso)
+### 🐍🛠️ **Piscina Django** (en proceso)
 
 La **piscine** de Django es un programa intensivo diseñado para sumergirte en el desarrollo web con **Python y Django**. En este entrenamiento, se aprenderán y practicarán conceptos clave como:
 
