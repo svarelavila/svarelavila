@@ -61,7 +61,7 @@ Es parte de una serie de módulos interconectados que juntos forman un programa 
 
 | **Proyecto** | **Descripción** |
 |---|---|
-| [0 - Initiation] ||
+| [0 - Initiation](https://github.com/svarelavila/Django-0-Initiation) ||
 | [0 - Starting] ||
 | [0 - Oob] ||
 | [1 - Lib] ||
