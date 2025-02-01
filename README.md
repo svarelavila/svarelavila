@@ -59,10 +59,19 @@ Es parte de una serie de módulos interconectados que juntos forman un programa 
 ---
 ### 🐍 **Piscina Django** (en proceso)
 
+La **piscine** de Django es un programa intensivo diseñado para sumergirte en el desarrollo web con **Python y Django**. En este entrenamiento, se aprenderán y practicarán conceptos clave como:
+
+- **Fundamentos de Django**: configuración, estructura de proyectos y aplicaciones.
+- **Bases de datos con SQL**: integración de bases de datos y manipulación de datos.
+- **Autenticación y gestión de sesiones**: control de usuarios, permisos y sesiones.
+- **Buenas prácticas en desarrollo web**: modularidad, patrones de diseño y optimización.
+
+El enfoque es completamente práctico, con ejercicios diseñados para reforzar el aprendizaje a través de la implementación real de proyectos.
+
 | **Proyecto** | **Descripción** |
 |---|---|
-| [0 - Initiation](https://github.com/svarelavila/Django-0-Initiation) ||
-| [0 - Starting] ||
+| [0 - Initiation](https://github.com/svarelavila/Django-0-Initiation) | Introducción a tecnologías web esenciales como **HTTP, HTML, CSS y JavaScript**. Se desarrollan ejercicios de estructura web, formularios, integración de JavaScript y validación de código. |
+| [0 - Starting] | Exploración de la sintaxis y semántica de **Python**, incluyendo **variables, estructuras de datos, lectura y manipulación de archivos, búsqueda y ordenamiento de datos**. Prepara la base para el uso de Django. |
 | [0 - Oob] ||
 | [1 - Lib] ||
 | [1 - Base Django]||
