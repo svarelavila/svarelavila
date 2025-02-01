@@ -71,7 +71,7 @@ El enfoque es completamente práctico, con ejercicios diseñados para reforzar e
 | **Proyecto** | **Descripción** |
 |---|---|
 | [0 - Initiation](https://github.com/svarelavila/Django-0-Initiation) | Introducción a tecnologías web esenciales como **HTTP, HTML, CSS y JavaScript**. Se desarrollan ejercicios de estructura web, formularios, integración de JavaScript y validación de código. |
-| [0 - Starting] | Exploración de la sintaxis y semántica de **Python**, incluyendo **variables, estructuras de datos, lectura y manipulación de archivos, búsqueda y ordenamiento de datos**. Prepara la base para el uso de Django. |
+| [0 - Starting](https://github.com/svarelavila/Django-0-Starting)| Exploración de la sintaxis y semántica de **Python**, incluyendo **variables, estructuras de datos, lectura y manipulación de archivos, búsqueda y ordenamiento de datos**. Prepara la base para el uso de Django. |
 | [0 - Oob] ||
 | [1 - Lib] ||
 | [1 - Base Django]||
