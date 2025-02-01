@@ -59,7 +59,8 @@ Es parte de una serie de módulos interconectados que juntos forman un programa 
 | [4 - Dod](https://github.com/svarelavila/Datascience-Dod) | Diseño orientado a datos para análisis avanzado. |
 
 ---
-### 🐍🛠️ **Piscina Django** (en proceso)
+### 🐍🛠️ **Piscina Django**
+🚧 **Este repositorio está en desarrollo. Las actualizaciones se realizarán periódicamente.** 🚧
 
 La **piscine** de Django es un programa intensivo diseñado para sumergirte en el desarrollo web con **Python y Django**. En este entrenamiento, se aprenderán y practicarán conceptos clave como:
 
